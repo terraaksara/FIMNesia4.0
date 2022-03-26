@@ -1,5 +1,5 @@
-.row {
-  padding: 180px 0 250px;
+.header-background {
+  padding: 180px 0 200px;
   background-image: url(../image/Background.jpg);
   background-size: cover;
   background-blend-mode: multiply;
